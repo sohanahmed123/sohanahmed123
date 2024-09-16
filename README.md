@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sohan Ahmed</h1>
+<h1 align="center">I'm Sohan Ahmed</h1>
 <h3 align="center">I have no Passion</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sohanahmed123&label=Profile%20views&color=0e75b6&style=flat" alt="sohanahmed123" /> </p>
